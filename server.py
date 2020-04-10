@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
 
-@author: war19
-"""
 
 import socket
 
